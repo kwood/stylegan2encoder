@@ -1,0 +1,9 @@
+__pycache__
+.stylegan2-cache/
+latent_representation*/
+raw_images/
+generated_images*/
+aligned_images/
+latent_directions/
+_cudacache/
+models/
